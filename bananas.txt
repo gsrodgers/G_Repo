@@ -1,2 +1,4 @@
 carrot
 lettuce
+turnip
+beetroot
